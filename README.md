@@ -209,4 +209,4 @@ This repository serves as the official landing page for Aberrant Nights. The sof
 **Get the most recent version of Aberrant Nights today!**
 
 ---
-**Last updated:** 2026-11-11 18:15:16 UTC
+**Last updated:** 2026-11-12 01:12:24 UTC
